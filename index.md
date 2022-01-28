@@ -1,4 +1,4 @@
-|            | Day  | Topic                                    | Due                                                  |
+|            | **Day** | **Topic**                                | **Due**                                              |
 |------------|------|------------------------------------------|------------------------------------------------------|
 |            |      |                                          |                                                      |
 | 1/18/2021  | 1    | https://docs.google.com/document/d/1yhVB9DfddvJIiXitX2ZC1W0D3cJbcvib5fWmUlgqNO0/edit |                                                      |
@@ -10,4 +10,4 @@
 | 2/8/2021   | 7    | How visualizations lie                   | https://github.com/arielcwebster/DataScience/blob/main/visualdatacommunication.pdf |
 | 2/10/2021  | 8    | Work Day                                 | https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit |
 | 2/15/2021  | 9    | Danielle                                 | Reading Due - How Charts Lie                         |
-| 2/17/2021  | 10   | R Intro                                  |                                                      |
+
