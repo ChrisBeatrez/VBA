@@ -1,14 +1,6 @@
-|          | Day  | Topic                                    | Due                                                  |
-|----------|------|------------------------------------------|------------------------------------------------------|
-|          |      |                                          |                                                      |
-| 1/18/21  | 1    | What is Data Science                     |                                                      |
-| 1/20/21  | 2    | VBA                                      | HW1 - Excel                                          |
-| 1/25/21  | 3    | Data Communication                       |                                                      |
-| 1/27/21  | 4    | Work Day                                 | HW2 - VBA                                            |
-| 2/1/21   | 5    | Why are data visualizations important ?  | Reading Due - Florence Nightengale                   |
-| 2/3/21   | 6    | Tablau                                   | COVID Risk Calculator                                |
-| 2/8/21   | 7    | How visualizations lie                   | Reading Due - Differnet Kinds of Data Visualization  |
-| 2/10/21  | 8    | Work Day                                 | HW 3 - Tablau                                        |
-| 2/15/21  | 9    | Danielle                                 | Reading Due - How Charts Lie                         |
-
-
+|            | Day  | Topic                                                                                 | Due                                                                                   |
+|------------|------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|            |      |                                                                                       |                                                                                       |
+| 1/18/2021  | 1    | https://docs.google.com/document/d/1yhVB9DfddvJIiXitX2ZC1W0D3cJbcvib5fWmUlgqNO0/edit  |                                                                                       |
+| 1/20/2021  | 2    | https://docs.google.com/document/d/1ASoeI5CjFgyQTBm-HFPvmRC_94niTPx4s9crQEDVb10/edit  | https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit  |
+| 1/25/2021  | 3    | https://docs.google.com/document/d/1PTe_eezbRdZcxIOODyiQzDM4vtjVNJkVDC_7vZQSoZE/edit  |                                                                                       |
