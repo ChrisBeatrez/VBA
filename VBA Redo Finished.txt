@@ -1,0 +1,89 @@
+Sub Homework()
+
+Dim r As Long
+Dim selectedRange As Range
+Set selectedRange = Selection
+
+
+r = 1
+c = 1
+max_row = Selection.Rows.Count
+max_col = Selection.Columns.Count
+'max_row = ActiveSheet.UsedRange.Rows.Count
+'max_col = ActiveSheet.UsedRange.columns.Count
+
+Dim arr() As Variant
+i = 0
+
+'Checks if top of column cell is blue and stores column # in arr
+Do While r < 2
+    For c = 1 To max_col
+    If Selection.Cells(r, c).Interior.Color = RGB(149, 179, 215) Then
+        ReDim Preserve arr(i)
+        arr(i) = c
+        i = i + 1
+    End If
+    Next c
+    r = r + 1
+Loop
+
+
+'Print first row
+r = 1
+c = 1
+Do While r < 2
+    For c = 1 To max_col
+    If Selection.Cells(r, c).Value = "" Or Selection.Cells(r, c).Interior.Color <> RGB(149, 179, 215) Then
+        Debug.Print ("&nbsp;|");
+    Else
+        Debug.Print (Selection.Cells(r, c).Value + "|");
+    End If
+    Next c
+    r = r + 1
+Loop
+
+Debug.Print ("")
+'Print markdown format after first row
+r = 1
+c = 1
+Do While r < 2
+    For c = 1 To max_col
+        Debug.Print ("---|");
+    Next c
+    r = r + 1
+Loop
+
+Debug.Print ("")
+'Print rest of selection
+r = 2
+c = 1
+j = 0
+Do While r < max_row + 1
+    Debug.Print ("|");
+    j = 0
+    For c = 1 To max_col
+        If c = arr(j) Then
+            If Selection.Cells(r, c).Hyperlinks.Count > 0 And InStr(1, Cells(r, c).Value, " ") > 0 And Selection.Cells(r, c).Interior.Color <> RGB(255, 153, 0) And Selection.Cells(r, c).Interior.Color <> RGB(255, 255, 0) Then
+                Debug.Print ("[" + Cells(r, c).Value + "]" + "(" + Replace(Cells(r, c).Hyperlinks(1).Address, " ", "%20") + ")" + "|");
+            ElseIf Selection.Cells(r, c).Hyperlinks.Count > 0 And Selection.Cells(r, c).Interior.Color <> RGB(255, 153, 0) And Selection.Cells(r, c).Interior.Color <> RGB(255, 255, 0) Then
+                Debug.Print ("[" + Cells(r, c).Value + "]" + "(" + Cells(r, c).Hyperlinks(1).Address + ")" + "|");
+            ElseIf Selection.Cells(r, c).Interior.Color = RGB(255, 153, 0) Then
+                Debug.Print ("|");
+            Else
+                Debug.Print (CStr(Selection.Cells(r, c).Value) + "|");
+            End If
+            
+            If j < i - 1 Then
+                j = j + 1
+            Else
+                j = j + 0
+            End If
+        Else
+            Debug.Print (" |");
+        End If
+    Next c
+    Debug.Print ("")
+    r = r + 1
+Loop
+
+End Sub
