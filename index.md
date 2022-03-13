@@ -3,4 +3,15 @@
 || |||
 |1/18/2021| |[What is Data Science ](https://docs.google.com/document/d/1yhVB9DfddvJIiXitX2ZC1W0D3cJbcvib5fWmUlgqNO0/edit)||
 |1/20/2021| |[VBA](https://docs.google.com/document/d/1ASoeI5CjFgyQTBm-HFPvmRC_94niTPx4s9crQEDVb10/edit)|[HW1 - Excel](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit)|
-
+|1/25/2021| |[Data Communication](https://docs.google.com/document/d/1PTe_eezbRdZcxIOODyiQzDM4vtjVNJkVDC_7vZQSoZE/edit)||
+|1/27/2021| |Work Day|[HW2 - VBA](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit)|
+|2/1/2021| |Importance of Visualizations & Writing, Tableau|[Reading Due - Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit)|
+|2/3/2021| |Class Canceled ||
+|2/8/2021| |Work day||
+|2/10/2021| |[Reading Review](https://docs.google.com/forms/d/1JJ3pD4m_kvgERvRMuFSiDxglcJmNxvg1N8fegM7ubyA/edit)|[HW 3 - Tableau](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit)|
+|2/15/2021| |[Data Exploration with Data Vis + R Intro](https://docs.google.com/document/d/1KI0OLn91_FJ03bQJW8ptoMNqOo8EL6MKzwLxvzIzNnM/edit)|[Reading - Reveal Don't Conceal](https://docs.google.com/forms/d/1zno4KDCz5dWahMLxWlQDUzI7sfpd2ygYqU6H_k05K-E/edit)|
+|2/17/2021| |ggplot Intro|[Reading - Why Data is good for governments to provide](https://www.theguardian.com/local-government-network/2013/oct/21/open-data-us-san-francisco)|
+|2/22/2021| |Danielle||
+|2/24/2021| |Work Day|[HW 4 - Data Exploration Tableau](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit)|
+|3/1/2021| |[Remember Statistics - Linear Regression](https://docs.google.com/document/d/14MH0Qq9nTMTY1uYrVohCFPWajxAF0SO_TxA7n0LxEKA/edit)||
+|3/3/2021| |Logistic Regression||
