@@ -15,6 +15,5 @@
 |2/24/2021|11|Work Day|[HW 4 - Data Exploration Tableau](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit)|
 |3/1/2021|12|[Remember Statistics - Linear Regression](https://docs.google.com/document/d/14MH0Qq9nTMTY1uYrVohCFPWajxAF0SO_TxA7n0LxEKA/edit)||
 |3/3/2021|13|Logistic Regression||
-
 |3/8/2021|14||[P-Hacking](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01554)|
 |3/10/2021|15|Work Day|HW 5 - ggplots & Regressions|
